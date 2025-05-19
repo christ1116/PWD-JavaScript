@@ -1,5 +1,3 @@
-# PWD-JavaScript
-
 ### Js Home ###
 <!DOCTYPE html>
 <html>
